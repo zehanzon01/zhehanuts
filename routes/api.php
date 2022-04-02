@@ -36,7 +36,7 @@ Route::get('/user/identitas', function(){
     return[
         'code' => '0',
         'data' => [
-            'npm' => '197006073',
+            'npm' => '197006076',
             'nama' => 'Zhehan Gustiyandi',
             'email' => 'zehan@gmail.com',
             'AlamatLengkap' => 'Jl air tanjung no 25, kec kawalu'
